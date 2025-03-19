@@ -76,18 +76,9 @@ This project outlines a **Git workflow strategy** with a **branching model, PR r
 - **Version control using Git tags**
 - **Importance of `README.md` and `.gitignore`**
 
-## 🚀 Git Workflow
-1. **Clone repository**
-```bash
-git clone <repo-url>
 
----
 
-### **4️⃣ Certificate Registration Application in GCP**  
-📄 **File:** 'certification details update application using GCP cookbook.docx`  
-
-```markdown
-# Certificate Registration Application using GCP 🎓🌍
+# **4️⃣ Certificate Registration Application in GCP**  
 
 ## 📌 Project Overview
 A **cloud-based certificate registration application** built using **Google Cloud Platform (GCP)**. The app allows users to **register, update, and verify certificates**.
@@ -113,8 +104,7 @@ A **cloud-based certificate registration application** built using **Google Clou
 4. **Secure authentication with Firebase**
 5. **Deploy web UI for certificate management**
 
-## 📸 Screenshots
-![Certificate Registration UI](docs/cert_registration_ui.png)
+
 ---
 # BMI Calculator using GCP Cloud Run & Firebase 🏋️‍♂️⚕️
 
